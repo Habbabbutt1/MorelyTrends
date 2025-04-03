@@ -1,0 +1,6 @@
+@MorelyTrends_HostAddress = http://localhost:5039
+
+GET {{MorelyTrends_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
